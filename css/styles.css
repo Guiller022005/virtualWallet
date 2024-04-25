@@ -94,20 +94,34 @@ body{
     border-top-left-radius: 20px;
     border-top-right-radius: 20px
 }
+.activities h5{
+    margin-top: 15px;
+    margin-left: 13px;
+    font-family: parraf;
+    font-size: 1.3rem;
+    color: var(--color-2);
+}
 .activities_type{
     display: flex;
     flex-direction: row;
-    width: 330px;
+    width: 350px;
     height: 270px;
+    justify-content: space-evenly;
+    gap: 10px;
+    margin: 6px;
 }
 .activi_clas{
     display: flex;
+    flex-direction: column;
     width: 203px;
     height: 150px;
-    border: 2px solid red;
+    /* border: 2px solid rgb(136, 134, 134); */
     box-sizing: border-box;
     align-content: center;
     justify-content: center;
+    align-items: center;
+    border-radius: 15px;
+    box-shadow: 0px 0px 55px 10px #e2dede;
 }
 
 .activi_clas img{
@@ -117,6 +131,23 @@ body{
     height: 88px;
     align-self: center;
     align-content: center;
+}
+.transaction_list{
+    display: flex;
+    flex-direction: row;
+    
+}
+.transations h5{
+    margin-top: 15px;
+    margin-left: 13px;
+    font-family: parraf;
+    font-size: 1.3rem;
+    color: var(--color-2);
+}
+.transaction_list{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
 }
 .footer{
     position: relative;
