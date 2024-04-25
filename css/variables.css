@@ -1,4 +1,9 @@
 :root{
+    --color-1:#FFFFFF;
+    --color-2:#33404F;
     
-    
+}
+@font-face {
+    font-family: title;
+    src: url(../storage/font/SF-Pro-Text-Font-Family/SF-Pro-Text-Heavy.otf);
 }
