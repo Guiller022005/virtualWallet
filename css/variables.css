@@ -7,3 +7,7 @@
     font-family: title;
     src: url(../storage/font/SF-Pro-Text-Font-Family/SF-Pro-Text-Heavy.otf);
 }
+@font-face {
+    font-family: parraf;
+    src: url(../storage/font/SF-Pro-Text-Font-Family/SF-Pro-Text-Bold.otf);
+}
