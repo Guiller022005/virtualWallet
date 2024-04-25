@@ -1,0 +1,39 @@
+@import url(variables.css);
+*{
+    padding: 0;
+    margin: 0;
+    font-family: "EncodeSans-Regular";
+    box-sizing: border-box;
+}
+.header{
+    display: flex;
+    /* padding: var(--space-layout-padding-lr); */
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    background: green;
+}
+.name_page{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+}
+.header__information{
+    display: flex;
+    flex-direction: column;
+    padding: 15px;
+}
+.textinfo{
+    display: flex;
+    flex-direction: row;
+    padding: 15px;
+}
+.textbar{
+    display: flex;
+    flex-direction: column;
+}
+.textbar img{
+    width: 265px;
+    height: 12px;
+}
