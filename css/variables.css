@@ -11,3 +11,11 @@
     font-family: parraf;
     src: url(../storage/font/SF-Pro-Text-Font-Family/SF-Pro-Text-Bold.otf);
 }
+@font-face {
+    font-family: subtitle;
+    src: url(../storage/font/SF-Pro-Text-Font-Family/SF-Pro-Text-Light.otf);
+}
+@font-face {
+    font-family: texto;
+    src: url(../storage/font/SF-Pro-Text-Font-Family/SF-Pro-Text-Medium.otf);
+}

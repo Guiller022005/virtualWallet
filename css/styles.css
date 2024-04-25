@@ -51,6 +51,11 @@ body{
     font-size: 2rem;
     color: var(--color-1);
 }
+.section__information h3{
+    font-family: subtitle;
+    font-size: 2rem;
+    color: var(--color-1);
+}
 .textinfo{
     display: flex;
     flex-direction: row;
@@ -61,10 +66,19 @@ body{
     flex-direction: column;
     padding: 15px;
 }
-
+.textbar small{
+    font-family: texto;
+    color: var(--color-1);
+}
+.textbar h5{
+    font-family: parraf;
+    font-size: 1.5rem;
+    color: var(--color-1);
+}
 .asstext{
     display: flex;
     flex-direction: row;
+    align-items: end;
 }
 .barra1 img{
     width: 185px;
