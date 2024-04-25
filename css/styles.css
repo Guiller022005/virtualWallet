@@ -7,7 +7,7 @@
 }
 .header{
     display: flex;
-    /* padding: var(--space-layout-padding-lr); */
+    padding: var(--space-layout-padding-lr);
     flex-direction: row;
     justify-content: space-between;
     align-items: center;
