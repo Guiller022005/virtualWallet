@@ -5,9 +5,12 @@
     font-family: "EncodeSans-Regular";
     box-sizing: border-box;
 }
+body{
+    background-color: var(--color-2);
+    background-image: url(../storage/img/imafondo.svg);
+}
 .header{
     display: flex;
-    padding: var(--space-layout-padding-lr);
     flex-direction: row;
     justify-content: space-between;
     align-items: center;
@@ -17,23 +20,90 @@
     display: flex;
     flex-direction: row;
     align-items: center;
-    justify-content: space-between;
+    padding-left: 15px;
 }
-.header__information{
+.name_page img{
+    width: 30px;
+    height: 30px;
+    
+}
+.imatex{
+    padding-right: 15px;
+}
+.imatex img{
+    width: 25px;
+    height: 30px;
+    
+}
+.section__information{
     display: flex;
     flex-direction: column;
     padding: 15px;
+}
+.section__information h1{
+    font-family: title;
+    font-size: 2rem;
+    color: var(--color-1);
 }
 .textinfo{
     display: flex;
     flex-direction: row;
     padding: 15px;
 }
-.textbar{
+.textbar small h5{ 
     display: flex;
     flex-direction: column;
+    padding: 15px;
 }
-.textbar img{
-    width: 265px;
-    height: 12px;
+
+.asstext{
+    display: flex;
+    flex-direction: row;
+}
+.barra1 img{
+    width: 185px;
+    height: 6px;
+}
+.barra2 img{
+    width: 185px;
+    height: 6px;
+}
+.section_transactions{
+    padding: 15px;
+    background: var(--color-1);
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px
+}
+.activities_type{
+    display: flex;
+    flex-direction: row;
+    width: 330px;
+    height: 270px;
+}
+.activi_clas{
+    display: flex;
+    width: 203px;
+    height: 150px;
+    border: 2px solid red;
+    box-sizing: border-box;
+    align-content: center;
+    justify-content: center;
+}
+
+.activi_clas img{
+    display: flex;
+    flex-direction: row;
+    width: 48px;
+    height: 88px;
+    align-self: center;
+    align-content: center;
+}
+.footer{
+    position: fixed;
+    bottom: 10px;
+    width: 100%;
+    padding: 15px;
+}
+.footer__ul{
+    
 }
