@@ -89,6 +89,7 @@ body{
     height: 6px;
 }
 .section_transactions{
+
     padding: 15px;
     background: var(--color-1);
     border-top-left-radius: 20px;
@@ -105,8 +106,7 @@ body{
     display: flex;
     flex-direction: row;
     width: 350px;
-    height: 270px;
-    justify-content: space-evenly;
+    height: 160px;
     gap: 10px;
     margin: 6px;
 }
