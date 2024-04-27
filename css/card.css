@@ -116,10 +116,24 @@
     /* background-color: bluie; */
     font-family: parraf;
 }
-.main_information_card{
+.main_information_card_one{
     /* background-color: red; */
     background: var(--color-2);
     background-image: url(../storage/img/cards1.svg);
+    object-fit: cover;
+    width: 440px;
+    height: 300px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    padding: 25px;
+    gap: 20px;
+    border-radius: 40px;   
+}
+.main_information_card_two{
+    /* background-color: red; */
+    background: var(--color-4);
+    background-image: url(../storage/img/cards2.svg);
     object-fit: cover;
     width: 440px;
     height: 300px;
@@ -165,9 +179,7 @@
     flex-direction: row;
     align-items: end;    
     justify-content: center;
-
-    
-    
+    color: var(--color-1);
 }
 .footer{
     position: fixed;
