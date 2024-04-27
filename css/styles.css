@@ -189,7 +189,7 @@ main{
     display: flex;
     font-family: subtitle;
     font-size: 0.7rem;
-    color:var(--color-2);
+    color:var(--color-4);
 }
 
 .footer{
