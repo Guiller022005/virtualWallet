@@ -1,0 +1,35 @@
+@import url(variables.css);
+*{
+    padding: 0;
+    margin: 0;
+    font-family: "EncodeSans-Regular";
+    box-sizing: border-box;
+}
+.header{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    margin-top: 20px;
+    /* background: green; */
+}
+main{
+    gap: 20px;
+}
+.name_page{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    padding-left: 15px;
+}
+.name_page img{
+}
+.name_page p{
+    color: var(--color-2);
+    font-family: parraf;
+    letter-spacing: 2px;
+    margin-left: 10px;
+}
+.img_text{
+    padding-right: 15px;
+}
