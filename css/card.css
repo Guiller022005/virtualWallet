@@ -33,3 +33,147 @@ main{
 .img_text{
     padding-right: 15px;
 }
+.title h2{
+    padding-top: 20px;
+    padding-left: 20px;
+}
+.main__section_pig{
+    padding: 20px;
+    
+}
+.card__pig{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    /* padding: 20px; */
+    box-shadow: 0px 0px 30px 0px var(--color-3);
+    border-radius: 40px;
+
+
+}
+.exit img{
+    position: relative;
+    top: -45px;
+    right: 12px;
+    width: 25px;
+}
+.card_pig_information{
+    display: flex;
+    flex-direction: column;
+
+}
+.card_pig_information h3{
+    font-family: parraf;
+}
+.card_pig_information small{
+    font-family: smalls;
+    color: var(--color-3);
+}
+.card_pig_information a{
+    background: var(--color-5);
+    color: var(--color-1);text-align: center;
+    font-family: parraf;
+    border-radius: 20px;
+    padding: 10px;
+    text-decoration: none;
+}
+.pig{
+    background: var(--color-6);
+    padding: 20px 40px 20px 20px;
+    border-radius: 20px 50% 50% 0px;
+
+}
+.pig img{
+    width: 100px;
+    
+}
+.main__section_card {
+    margin-top: 20px;
+    /* background-color: blue; */
+    display: flex;
+    flex-direction: row;
+    gap: 20px;
+    align-items: center;
+    overflow-x: scroll;
+}
+.main__section_card h2{
+    background-color: bluie;
+    font-family: parraf;
+}
+.main_information_card{
+    /* background-color: red; */
+    background: var(--color-2);
+    
+    background-image: url(../storage/img/cards1.svg);
+    width: 440px;
+    height: 300px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    padding: 25px;
+    gap: 20px;
+    border-radius: 40px;    
+}
+.card_img img{
+    width: 30px;
+}
+.card_img_moon img{
+    width: 50px;
+}
+.main__section_card {
+    display: flex;
+    flex-direction: row;
+    padding: 20px;
+}
+.cards_type{
+    /* background-color: blue; */
+    
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    gap: 80px;
+}
+.clave h4{
+    /* background-color: green; */
+}
+.clave{
+    display: flex;
+    flex-direction: row;
+    font-size: 1rem;
+    color: var(--color-1);
+}
+.card_total{
+    /* background-color: yellow; */
+
+    display: flex;
+    flex-direction: row;
+    align-items: end;    
+    justify-content: center;
+
+    
+    
+}
+.footer{
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+
+    background: var(--color-2);
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+
+    padding-top: 20px;
+}
+.main_point{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.main_point__icon img{
+    width: 40px;
+}
+.main_point__CIRCLE img{
+    width: 10px;
+}
