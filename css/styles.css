@@ -96,6 +96,8 @@ main{
 }
 .section_transactions{
     background: var(--color-1);
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;
     width: 100%;
 }
 .section_transactions h2{
