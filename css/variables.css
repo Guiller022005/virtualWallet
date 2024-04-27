@@ -19,3 +19,7 @@
     font-family: texto;
     src: url(../storage/font/SF-Pro-Text-Font-Family/SF-Pro-Text-Medium.otf);
 }
+@font-face {
+    font-family: transaction;
+    src: url(../storage/font/SF-Pro-Text-Font-Family/SF-Pro-Text-Semibold.otf);
+}
