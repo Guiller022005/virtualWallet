@@ -184,6 +184,10 @@
     justify-content: center;
     color: var(--color-1);
 }
+.card_total span, h2{
+    font-family: parraf;
+    color: var(--color-1);
+}
 .footer{
     position: fixed;
     bottom: 0;
