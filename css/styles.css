@@ -17,6 +17,9 @@ body{
     margin-top: 20px;
     /* background: green; */
 }
+main{
+    gap: 20px;
+}
 .name_page{
     display: flex;
     flex-direction: row;
@@ -24,13 +27,10 @@ body{
     padding-left: 15px;
 }
 .name_page img{
-    width: 30px;
-    height: 30px;
 }
 .name_page p{
     color: var(--color-1);
     font-family: parraf;
-    font-size: 15px;
     letter-spacing: 2px;
     margin-left: 10px;
 }
@@ -38,9 +38,6 @@ body{
     padding-right: 15px;
 }
 .imatex img{
-    width: 25px;
-    height: 30px;
-    
 }
 .section__information{
     display: flex;
@@ -58,15 +55,15 @@ body{
     color: var(--color-1);
 }
 .textinfo{
+    /* background-color: red; */
+
     display: flex;
     flex-direction: row;
+    justify-content: space-between;
     padding: 15px;
 }
-.textbar small h5{ 
-    display: flex;
-    flex-direction: column;
-    padding: 15px;
-    
+.textbar{
+    /* background-color: blue; */
 }
 .textbar small{
     font-family: texto;
@@ -98,24 +95,22 @@ body{
    
 }
 .section_transactions{
-    position: fixed;
-    padding: 15px;
     background: var(--color-1);
-    width: calc(100% - 0px); 
-    bottom: 55px;
-    border-top-left-radius: 20px;
-    border-top-right-radius: 20px;
-    height: 420px;
-    padding-left: 15px;
+    width: 100%;
 }
-.section_transactions h5{
-    margin-top: 15px;
-    margin-left: 13px;
+.section_transactions h2{
     font-family: parraf;
     font-size: 1.3rem;
     color: var(--color-2);
-}
 
+    padding: 20px;
+}
+.transaction__history{
+    /* background-color: red;   */
+
+    height: 22vh;
+    overflow-y: scroll;
+}
 
 
 
@@ -124,20 +119,17 @@ body{
     display: flex;
     justify-content: center;
     flex-direction: row;
-    width: 100%;
-    height: 160px;
+
     gap: 10px;
-    margin-top: 15px;
+
 }
 
 .activi_clas {
     display: flex;
     flex-direction: column;
-    width: 203px;
+    width: 30vw;
     height: 150px;
-    list-style: none;
     
-    /* border: 2px solid rgb(136, 134, 134); */
     box-sizing: border-box;
     align-content: center;
     justify-content: center;
@@ -164,13 +156,18 @@ body{
     display: flex;
     flex-direction: row;
     justify-content: space-between;
+    
 }
-.transations h5{
-    margin-top: 15px;
-    margin-left: 13px;
+.transations{
+    background-color: var(--color-1);
+}
+.transations__title h2{
+    /* background-color: yellow !important; */
+
     font-family: parraf;
-    font-size: 1.3rem;
     color: var(--color-2);
+
+    padding: 20px;
 }
 .transaction_list{
     display: flex;
@@ -189,37 +186,27 @@ body{
     font-size: 0.7rem;
     color:var(--color-2);
 }
+
 .footer{
     position: fixed;
-    display: flex;
-    bottom: 0px;
+    bottom: 0;
     width: 100%;
-}
-.footer__ul{
+
     background: var(--color-2);
-    width: 100%;
-    height: 60px;
     display: flex;
     flex-direction: row;
     justify-content: space-evenly;
-    align-items: center; 
-    
+
+    padding-top: 20px;
 }
-.footer__ul li{
-    list-style: none;
-    background: var(--color-2);
-    border-radius: 100%;
-    height: 30px;
-    width: 100%;
+.punto_image{
     display: flex;
+    flex-direction: column;
     align-items: center;
-    justify-content: center;
 }
-.footer__ul li a{
-    display: flex;
-    
-}
-.footer__ul li a img{
-    object-fit: contain;
+.punto_image__icon img{
     width: 40px;
+}
+.punto_image__CIRCLE img{
+    width: 10px;
 }
