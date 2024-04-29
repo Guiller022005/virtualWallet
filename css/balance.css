@@ -103,19 +103,23 @@
 .balance_button_Incomebutton{
     grid-area: 3/3/1/3;
 }
-.balance_button_Assets button{
+.balance_button_type button{
     background: var(--color-9);
     color: var(--color-3);
 }
-.balance_button_Debt button{
+.balance_button_type button{
     background: var(--color-9);
     color: var(--color-3);
     /* border: 1px solid var(--color-5); */
 }
-.balance_button_Income button{
+.balance_button_type button{
     background: var(--color-9);
     /* border: 1px solid var(--color-4); */
     color: var(--color-3);
+}
+.balance_button_type button:hover{
+    filter: invert(1);
+    transform: scale(1.1);
 }
 .img_you_balance{
     display: flex;
@@ -131,7 +135,8 @@
 }
 .icon_exit{
     position: absolute;
-    right: 5px;
+    padding-top: 10px;
+    right: 10px;
     
 }
 .icon_exit img{
@@ -146,16 +151,18 @@
 .mesagge{
     display: flex;
     flex-direction: column;
-    padding-left: 20px;
+    padding-left: 10px;
 }
 .icon_text_mesagge h3{
-    padding-top: 20px;
+    padding-top: 35px;
     font-family: parraf;
 }
 .icon_text_mesagge small{
     padding-top: 5px;
     font-family: smalls;
+    color: gray;
 }
+
 
 .footer{
     position: fixed;
@@ -169,6 +176,7 @@
 
     padding-top: 20px;
 }
+
 .main_point{
     display: flex;
     flex-direction: column;
@@ -176,6 +184,10 @@
 }
 .main_point__icon img{
     width: 40px;
+}
+.main_point__icon:hover{
+    
+    transform: scale(1.1);
 }
 .main_point__CIRCLE img{
     width: 10px;
