@@ -1,33 +1,34 @@
 :root{
-    --color-1:#FFFFFF;
-    --color-2:#33404F;
-    --color-3:#33404f79;
-    --color-4:#B5C5C3;
+    --color-1:#5ba8eb;
+    --color-2:#FFFFFF;
+    --color-3:#0b174b;
+    --color-4:#d6d6d6;
     --color-5: #00DDA3;
     --color-6: #E1FFEF;
-    
-}
-@font-face {
+    --color-7: #0058a5;
+    --color-hover: #7eb5e9;
+    }
+    @font-face {
     font-family: title;
     src: url(../storage/font/SF-Pro-Text-Font-Family/SF-Pro-Text-Heavy.otf);
-}
-@font-face {
+    }
+    @font-face {
     font-family: parraf;
     src: url(../storage/font/SF-Pro-Text-Font-Family/SF-Pro-Text-Bold.otf);
-}
-@font-face {
+    }
+    @font-face {
     font-family: subtitle;
     src: url(../storage/font/SF-Pro-Text-Font-Family/SF-Pro-Text-Light.otf);
-}
-@font-face {
+    }
+    @font-face {
     font-family: texto;
     src: url(../storage/font/SF-Pro-Text-Font-Family/SF-Pro-Text-Medium.otf);
-}
-@font-face {
+    }
+    @font-face {
     font-family: transaction;
     src: url(../storage/font/SF-Pro-Text-Font-Family/SF-Pro-Text-Semibold.otf);
-}
-@font-face {
+    }
+    @font-face {
     font-family: smalls;
     src: url(../storage/font/SF-Pro-Text-Font-Family/SF-Pro-Text-Regular.otf);
-}
+    }

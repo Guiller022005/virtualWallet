@@ -1,116 +1,148 @@
 @import url(variables.css);
-*{
+
+* {
     padding: 0;
     margin: 0;
     font-family: "EncodeSans-Regular";
     box-sizing: border-box;
 }
-body{
-    background-color: var(--color-2);
+
+body {
+    background-color: var(--color-1);
     background-image: url(../storage/img/imafondo.svg);
 }
-.header{
+
+.header {
     display: flex;
     flex-direction: row;
     justify-content: space-between;
     align-items: center;
-    margin-top: 20px;
+    margin-top: 5px;
     /* background: green; */
+    background: var(--color-1);
 }
-main{
+
+main {
     gap: 20px;
 }
-.name_page{
+
+.name_page {
     display: flex;
     flex-direction: row;
     align-items: center;
     padding-left: 15px;
 }
-.name_page img{
-}
-.name_page p{
-    color: var(--color-1);
+
+.name_page img {}
+
+.name_page p {
+    color: var(--color-2);
     font-family: parraf;
     letter-spacing: 2px;
     margin-left: 10px;
 }
-.img_text{
+
+.img_text {
     padding-right: 15px;
 }
-.img_text img{
-}
-.main_title{
+
+.img_text img {}
+
+.main_title {
     display: flex;
     flex-direction: column;
     padding: 15px;
 }
-.main_title h1{
+
+.main_title h1 {
     font-family: title;
     font-size: 2rem;
     color: var(--color-1);
 }
-.main_title h3{
+
+.main_title h3 {
     font-family: subtitle;
     font-size: 2rem;
     color: var(--color-1);
 }
-.main_information{
-    /* background-color: red; */
 
+.main_information {
+    background-color: var(--color-1);
     display: flex;
     flex-direction: row;
     justify-content: space-between;
     padding: 15px;
 }
-.main_text{
+
+.main_text {
     /* background-color: blue; */
 }
-.main_text small{
+
+.main_text small {
     font-family: texto;
-    color: var(--color-1);   
+    color: var(--color-2);
 }
-.main_resources{
+
+.main_resources {
     margin-left: 7px;
 }
-.seccion_total{
+
+.seccion_total {
     display: flex;
     flex-direction: row;
     gap: 65px;
 }
-.main_text h5{
+
+.main_text h5 {
     font-family: parraf;
     font-size: 1.5rem;
-    color: var(--color-1);
+    color: var(--color-2);
 }
-.main_textsmall{
+
+.main_textsmall {
     display: flex;
     flex-direction: row;
     align-items: end;
     margin-left: 7px;
 }
-.main_bar img{
+
+.main_bar img {
     display: flex;
     flex-direction: row;
     width: 155px;
-   
 }
-.section_transactions{
-    background: var(--color-1);
+
+.section_transactions {
+    background: var(--color-2);
     border-top-left-radius: 20px;
     border-top-right-radius: 20px;
     width: 100%;
 }
-.section_transactions h2{
+
+.section_transactions_actividades {
+    width: 100%;
+}
+
+.section_activities {
+    width: 100%;
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;
+    background: var(--color-2);
+}
+
+.section_transactions h2 {
     font-family: parraf;
     font-size: 1.3rem;
-    color: var(--color-2);
-
-    padding: 20px;
+    color: var(--color-3);
+    padding-left: 20px;
+    padding-top: 10px;
 }
-.section_transactions p{
+
+.section_transactions p {
     font-family: transaction;
 }
-.transaction__history{
+
+.transaction__history {
     /* background-color: red;   */
     padding-left: 20px;
     padding-right: 20px;
@@ -118,33 +150,42 @@ main{
     overflow-y: scroll;
 }
 
-
-
-
-.activities_type{
+.section_transactions_actividades {
     display: flex;
-    justify-content: center;
     flex-direction: row;
+    width: 100%;
+    background: var(--color-2);
+}
 
+.activity_class:hover {
+    /* filter: invert(1); */
+    background-image: linear-gradient(to right, rgb(104, 171, 248), rgb(0, 53, 114));
+    transition: background-position 1.5s cubic-bezier(0.25, 0.1, 0.25, 1);
+}
+
+.activities_type {
+    display: flex;
+    flex-direction: row;
     gap: 10px;
-
+    width: 100vw;
+    overflow-x: scroll;
 }
 
 .activity_class {
     display: flex;
     flex-direction: column;
-    width: 30vw;
+    margin: 10px 0 10px 10px;
+    min-width: 100px;
     height: 150px;
-    
     box-sizing: border-box;
     align-content: center;
     justify-content: center;
     align-items: center;
     border-radius: 15px;
-    box-shadow: 0px 0px 30px 10px #e2dede;
+    box-shadow: 0px 0px 15px 0px #e2dede;
 }
 
-.activity_class img{
+.activity_class img {
     display: flex;
     flex-direction: row;
     width: 48px;
@@ -152,68 +193,90 @@ main{
     align-self: center;
     align-content: center;
 }
-.transaction_name{
+
+.transaction_name {
     display: flex;
     flex-direction: row;
     align-items: center;
     margin-top: 15px;
 }
-.transaction_list{
+
+.transaction_list {
     display: flex;
     flex-direction: row;
     justify-content: space-between;
-
     
 }
-.transactions{
-    background-color: var(--color-1);
+
+.transactions {
+    background-color: var(--color-2);
 }
-.transactions__title h2{
+
+.transactions__title h2 {
     /* background-color: yellow !important; */
-
     font-family: parraf;
-    color: var(--color-2);
-
-    padding: 20px;
+    color: var(--color-3);
+    padding-top: 20px;
+    padding-left: 20px;
 }
-.transaction_list{
+
+.transaction_list {
     display: flex;
     flex-direction: row;
     align-items: center;
 }
-.transaction_list h6{
+
+.transaction_list h6 {
     display: flex;
     font-family: parraf;
     font-size: 0.9rem;
-    color: var(--color-2);
+    color: var(--color-3);
 }
-.transaction_list small{
+
+.transaction_list small {
     display: flex;
     font-family: subtitle;
     font-size: 0.7rem;
-    color:var(--color-4);
+    color: var(--color-3);
 }
 
-.footer{
+.transaction_list:hover {
+    background-color: var(--color-4);
+    transition: background-color 0.3s ease;
+}
+
+.activities_type:hover {
+    background-image: linear-gradient(to right, rgb(87, 180, 241),rgb(0, 77, 128)e);
+    transition: background-position 1.5s cubic-bezier(0.25, 0.1, 0.25, 1);
+}
+
+.transaction_list:hover {
+    background-color: var(--color-hover);
+    transition: background-color 0.3s ease;
+    box-shadow: 0px 0px 55px 10px var(--color-hover);
+}
+
+.footer {
     position: fixed;
     bottom: 0;
     width: 100%;
-
-    background: var(--color-2);
+    background: var(--color-7);
     display: flex;
     flex-direction: row;
     justify-content: space-evenly;
-
     padding-top: 20px;
 }
-.main_point{
+
+.main_point {
     display: flex;
     flex-direction: column;
     align-items: center;
 }
-.main_point__icon img{
+
+.main_point__icon img {
     width: 40px;
 }
-.main_point__CIRCLE img{
+
+.main_point__CIRCLE img {
     width: 10px;
 }
