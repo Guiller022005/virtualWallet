@@ -10,7 +10,7 @@
     flex-direction: row;
     justify-content: space-between;
     align-items: center;
-    margin-top: 20px;
+    margin-top: 5px;
     /* background: green; */
 }
 .main{
@@ -26,18 +26,18 @@
 .name_page img{
 }
 .name_page p{
-    color: var(--color-2);
+    color: var(--color-3);
     font-family: parraf;
     letter-spacing: 2px;
     margin-left: 10px;
 }
 .img_text{
-    padding-right: 15px;
+    padding-right: 10px;
 }
 .title h2{
     font-family: parraf;
-    color: var(--color-2);
-    padding-top: 20px;
+    color: var(--color-3);
+    padding-top: 10px;
     padding-left: 20px;
 }
 .main__section_pig{
@@ -81,7 +81,7 @@
 }
 .card_pig_information h3{
     font-family: parraf;
-    color: var(--color-2);
+    color: var(--color-3);
 }
 .card_pig_information small{
     font-family: smalls;
@@ -121,7 +121,7 @@
 }
 .main_information_card_one{
     /* background-color: red; */
-    background: var(--color-2);
+    background: var(--color-8);
     background-image: url(../storage/img/cards1.svg);
     object-fit: cover;
     width: 440px;
@@ -135,8 +135,8 @@
 }
 .main_information_card_two{
     /* background-color: red; */
-    background: var(--color-4);
-    background-image: url(../storage/img/cards2.svg);
+    background: var(--color-8);
+    background-image: url(../storage/img/cards1.svg);
     object-fit: cover;
     width: 440px;
     height: 300px;
@@ -146,6 +146,10 @@
     padding: 25px;
     gap: 20px;
     border-radius: 40px;   
+}
+.main_information_card_one:hover{
+    background-color: var(--color-1);
+    transition: background-color 0.3s ease;
 }
 .card_img img{
     width: 30px;
@@ -173,7 +177,7 @@
     display: flex;
     flex-direction: row;
     font-size: 1rem;
-    color: var(--color-1);
+    color: var(--color-3);
 }
 .card_total{
     /* background-color: yellow; */
@@ -182,18 +186,18 @@
     flex-direction: row;
     align-items: end;    
     justify-content: center;
-    color: var(--color-1);
+    color: var(--color-3);
 }
 .card_total span, h2{
     font-family: parraf;
-    color: var(--color-1);
+    color: var(--color-3);
 }
 .footer{
     position: fixed;
     bottom: 0;
     width: 100%;
 
-    background: var(--color-2);
+    background: var(--color-1);
     display: flex;
     flex-direction: row;
     justify-content: space-evenly;

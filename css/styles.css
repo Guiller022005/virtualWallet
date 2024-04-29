@@ -57,13 +57,13 @@ main {
 .main_title h1 {
     font-family: title;
     font-size: 2rem;
-    color: var(--color-1);
+    color: var(--color-2);
 }
 
 .main_title h3 {
     font-family: subtitle;
     font-size: 2rem;
-    color: var(--color-1);
+    color: var(--color-2);
 }
 
 .main_information {
@@ -159,7 +159,7 @@ main {
 
 .activity_class:hover {
     /* filter: invert(1); */
-    background-image: linear-gradient(to right, rgb(104, 171, 248), rgb(0, 53, 114));
+    background-image: linear-gradient(to right, rgb(103, 194, 123), rgb(47, 136, 62));
     transition: background-position 1.5s cubic-bezier(0.25, 0.1, 0.25, 1);
 }
 
@@ -246,8 +246,8 @@ main {
 }
 
 .activities_type:hover {
-    background-image: linear-gradient(to right, rgb(87, 180, 241),rgb(0, 77, 128)e);
-    transition: background-position 1.5s cubic-bezier(0.25, 0.1, 0.25, 1);
+    background-image: linear-gradient(to right, hsl(160, 72%, 56%),rgb(0, 128, 0)e);
+    transition: background-position 2s cubic-bezier(0.25, 0.1, 0.25, 1);
 }
 
 .transaction_list:hover {
@@ -260,11 +260,11 @@ main {
     position: fixed;
     bottom: 0;
     width: 100%;
-    background: var(--color-7);
+    background: var(--color-1);
     display: flex;
     flex-direction: row;
     justify-content: space-evenly;
-    padding-top: 20px;
+    padding-top: 15px;
 }
 
 .main_point {
