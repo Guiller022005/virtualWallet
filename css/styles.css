@@ -256,27 +256,31 @@ main {
     box-shadow: 0px 0px 55px 10px var(--color-hover);
 }
 
-.footer {
+.footer{
     position: fixed;
     bottom: 0;
     width: 100%;
+
     background: var(--color-1);
     display: flex;
     flex-direction: row;
     justify-content: space-evenly;
-    padding-top: 15px;
+
+    padding-top: 20px;
 }
 
-.main_point {
+.main_point{
     display: flex;
     flex-direction: column;
     align-items: center;
 }
-
-.main_point__icon img {
+.main_point__icon img{
     width: 40px;
 }
-
-.main_point__CIRCLE img {
+.main_point__icon:hover{
+    
+    transform: scale(1.1);
+}
+.main_point__CIRCLE img{
     width: 10px;
 }
