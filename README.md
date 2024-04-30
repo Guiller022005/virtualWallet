@@ -60,3 +60,5 @@ En mi html en la parte del header, coloque la imagen del fondo y procedi a ajust
 ![image](https://github.com/Guiller022005/virtualWallet/assets/118319910/54c65a52-3903-4ef7-810b-5cddda9f9640)
 ![image](https://github.com/Guiller022005/virtualWallet/assets/118319910/bc426fdf-513e-4d11-8b7a-ae0b407a4d78)
 Para esta parte si use grid para acomodar la seccion de en medio, los botenes:
+
+En el css, me apoye en z-index, para cuadrar mejor todo q debia quedar encima y q debajo:
