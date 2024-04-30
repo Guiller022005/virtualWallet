@@ -26,3 +26,6 @@ Puse la imagen de fondo en el backgrown, comence marcando las secciones q estaba
 
 En esta parte se puede ver una transicion, despues de q arme mi html y monte mi css ya ordenado, fue q decidi poner algunas animaciones como cambios de color al seleccionar o pasar el cursor por algun elemento
 ![image](https://github.com/Guiller022005/virtualWallet/assets/118319910/3d7d0491-fb1f-4d83-bc95-6a0814a31bcb)
+
+Use los overflow: scroll, para las partes en las q se requeria se pudieran pasar varios elementos deslizando, segun las instrucciones y explicaciones de clase del trainer
+![image](https://github.com/Guiller022005/virtualWallet/assets/118319910/43f61e93-ecf1-4c37-940e-a201c559696e)
