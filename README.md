@@ -55,4 +55,8 @@ Me apoye con flex q ya lo domino mejor para estas paginas en la mayoria:
 Reutilice el codigo del footer para agilizar mi trabajo:
 ![image](https://github.com/Guiller022005/virtualWallet/assets/118319910/a1a65431-0e8c-4bd8-85bd-e414743f0960)
 
-
+# Tercera parte:
+En mi html en la parte del header, coloque la imagen del fondo y procedi a ajustarla segun lo necesario:
+![image](https://github.com/Guiller022005/virtualWallet/assets/118319910/54c65a52-3903-4ef7-810b-5cddda9f9640)
+![image](https://github.com/Guiller022005/virtualWallet/assets/118319910/bc426fdf-513e-4d11-8b7a-ae0b407a4d78)
+Para esta parte si use grid para acomodar la seccion de en medio, los botenes:
