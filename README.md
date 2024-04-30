@@ -52,3 +52,7 @@ Use backgrown-img para algunas imagenes:
 Me apoye con flex q ya lo domino mejor para estas paginas en la mayoria:
 ![image](https://github.com/Guiller022005/virtualWallet/assets/118319910/19b47a1e-313d-4338-8b9c-5cbdc0a79604)
 
+Reutilice el codigo del footer para agilizar mi trabajo:
+![image](https://github.com/Guiller022005/virtualWallet/assets/118319910/a1a65431-0e8c-4bd8-85bd-e414743f0960)
+
+
