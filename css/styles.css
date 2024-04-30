@@ -188,8 +188,8 @@ main {
 .activity_class img {
     display: flex;
     flex-direction: row;
-    width: 54px;
-    height: 58px;
+    width: 48px;
+    height: 48px;
     align-self: center;
     align-content: center;
 }
