@@ -23,3 +23,6 @@ Este es el css de mi index:
 Puse la imagen de fondo en el backgrown, comence marcando las secciones q estaba trabajando con colores para ver mejor los cambios q estaba realizando:
 ![image](https://github.com/Guiller022005/virtualWallet/assets/118319910/b46c9ca5-c9c8-4004-a089-8f78cdea40e6)
 ![image](https://github.com/Guiller022005/virtualWallet/assets/118319910/4c918f12-c872-4c9b-9135-4488128cdc27)
+
+En esta parte se puede ver una transicion, despues de q arme mi html y monte mi css ya ordenado, fue q decidi poner algunas animaciones como cambios de color al seleccionar o pasar el cursor por algun elemento
+![image](https://github.com/Guiller022005/virtualWallet/assets/118319910/3d7d0491-fb1f-4d83-bc95-6a0814a31bcb)
