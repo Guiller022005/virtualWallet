@@ -188,8 +188,8 @@ main {
 .activity_class img {
     display: flex;
     flex-direction: row;
-    width: 48px;
-    height: 88px;
+    width: 54px;
+    height: 58px;
     align-self: center;
     align-content: center;
 }
@@ -255,6 +255,8 @@ main {
     transition: background-color 0.3s ease;
     box-shadow: 0px 0px 55px 10px var(--color-hover);
 }
+
+
 
 .footer{
     position: fixed;

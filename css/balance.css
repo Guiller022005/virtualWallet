@@ -16,7 +16,7 @@
     flex-direction: row;
     justify-content: space-between;
     align-items: center;
-    margin-top: 5px;
+    margin-top: 0px;
     background: var(--color-5); 
 
 }
@@ -118,7 +118,7 @@
     color: var(--color-3);
 }
 .balance_button_type button:hover{
-    filter: invert(1);
+    background-color:#00DDA3;
     transform: scale(1.1);
 }
 .img_you_balance{

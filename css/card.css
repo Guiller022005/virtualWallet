@@ -63,7 +63,7 @@
     justify-content: space-between;
     align-items: center;
     /* padding: 20px; */
-    box-shadow: 0px 0px 30px 0px var(--color-3);
+    box-shadow: 0px 0px 5px  var(--color-11);
     border-radius: 20px;
     overflow: hidden;
     height: 98px;
@@ -125,7 +125,10 @@
     background: var(--color-8);
     background-image: url(../storage/img/cards1.svg);
     object-fit: cover;
-    width: 300px;
+    /* width: 300px; */
+    width: 60vw;
+    height: 50vh;
+
     display: flex;
     flex-direction: column;
     justify-content: space-between;
