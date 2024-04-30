@@ -64,3 +64,6 @@ Para esta parte si use grid para acomodar la seccion de en medio, los botenes:
 En el css, me apoye en z-index, para cuadrar mejor todo q debia quedar encima y q debajo:
 ![image](https://github.com/Guiller022005/virtualWallet/assets/118319910/c9885c6a-23fd-4ac6-af7c-d780a7e76c44)
 ![image](https://github.com/Guiller022005/virtualWallet/assets/118319910/3b9cea2f-73a3-48a2-be95-c070384c8490)
+
+Con grid area acomode de mejor forma y use la mayoria de las veces unidades relativas:
+![image](https://github.com/Guiller022005/virtualWallet/assets/118319910/c81f64f5-aee3-4bc3-94f6-8c77b28584ba)
