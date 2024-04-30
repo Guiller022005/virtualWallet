@@ -29,3 +29,9 @@ En esta parte se puede ver una transicion, despues de q arme mi html y monte mi 
 
 Use los overflow: scroll, para las partes en las q se requeria se pudieran pasar varios elementos deslizando, segun las instrucciones y explicaciones de clase del trainer
 ![image](https://github.com/Guiller022005/virtualWallet/assets/118319910/43f61e93-ecf1-4c37-940e-a201c559696e)
+
+Segun su clase la llamaba seguida por un punto, y agregaba o modificaba cositas segun hubiera necesidad de mejorar:
+![image](https://github.com/Guiller022005/virtualWallet/assets/118319910/7eb59d0f-fbe6-4274-8cfc-8306700d412a)
+
+Al footer despues de terminar le puse un transform para q aumentara el tamaño del elemnto por el q pasara el cursor en el menu:
+![image](https://github.com/Guiller022005/virtualWallet/assets/118319910/a9f47219-4b1a-4bc7-853d-796c31348fa9)
