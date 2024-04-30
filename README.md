@@ -46,3 +46,5 @@ Importe variables y reutilice el codigo para el header de esta parte:
 ![image](https://github.com/Guiller022005/virtualWallet/assets/118319910/e0fecb6b-450d-4782-bbe0-29f145e5d24e)
 ![image](https://github.com/Guiller022005/virtualWallet/assets/118319910/370d52ec-ed70-4ea1-9314-5c91b95058a0)
 
+Use backgrown-img para algunas imagenes:
+![image](https://github.com/Guiller022005/virtualWallet/assets/118319910/383d8270-09a8-45aa-8e55-7e2a3365ece4)
