@@ -48,3 +48,7 @@ Importe variables y reutilice el codigo para el header de esta parte:
 
 Use backgrown-img para algunas imagenes:
 ![image](https://github.com/Guiller022005/virtualWallet/assets/118319910/383d8270-09a8-45aa-8e55-7e2a3365ece4)
+
+Me apoye con flex q ya lo domino mejor para estas paginas en la mayoria:
+![image](https://github.com/Guiller022005/virtualWallet/assets/118319910/19b47a1e-313d-4338-8b9c-5cbdc0a79604)
+
