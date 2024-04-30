@@ -44,5 +44,5 @@ en mi html card, tambien use las imagenes y colores bases del figma q serviria d
 Tambien le hice un main y varias sections con articles y divs para la estructura, luego de terminado.. pase a hacer a sig dia mi css card:
 Importe variables y reutilice el codigo para el header de esta parte:
 ![image](https://github.com/Guiller022005/virtualWallet/assets/118319910/e0fecb6b-450d-4782-bbe0-29f145e5d24e)
-
+![image](https://github.com/Guiller022005/virtualWallet/assets/118319910/370d52ec-ed70-4ea1-9314-5c91b95058a0)
 
