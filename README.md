@@ -35,3 +35,14 @@ Segun su clase la llamaba seguida por un punto, y agregaba o modificaba cositas 
 
 Al footer despues de terminar le puse un transform para q aumentara el tamaño del elemnto por el q pasara el cursor en el menu:
 ![image](https://github.com/Guiller022005/virtualWallet/assets/118319910/a9f47219-4b1a-4bc7-853d-796c31348fa9)
+
+# Segunda parte:
+en mi html card, tambien use las imagenes y colores bases del figma q serviria de guia:
+![image](https://github.com/Guiller022005/virtualWallet/assets/118319910/53809f60-018c-4f76-a84d-22314695e7ea)
+![image](https://github.com/Guiller022005/virtualWallet/assets/118319910/f25e274b-1a00-4e56-9215-2e29314c450b)
+![image](https://github.com/Guiller022005/virtualWallet/assets/118319910/003c6a67-d07d-4942-b69a-28b66de57303)
+Tambien le hice un main y varias sections con articles y divs para la estructura, luego de terminado.. pase a hacer a sig dia mi css card:
+Importe variables y reutilice el codigo para el header de esta parte:
+![image](https://github.com/Guiller022005/virtualWallet/assets/118319910/e0fecb6b-450d-4782-bbe0-29f145e5d24e)
+
+
