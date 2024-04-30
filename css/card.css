@@ -43,7 +43,7 @@
 .main__section_pig{
     
 
-    padding: 20px;
+    padding: 10px;
     
 }
 .backgrown_pig{
@@ -66,18 +66,18 @@
     box-shadow: 0px 0px 30px 0px var(--color-3);
     border-radius: 20px;
     overflow: hidden;
-    height: 128px;
+    height: 98px;
 }
 .exit img{
     position: relative;
-    top: -40px;
+    top: -30px;
     right: 9px;
-    width: 25px;
+    width: 20px;
 }
 .card_pig_information{
     display: flex;
     flex-direction: column;
-    
+    height: 88px;
 }
 .card_pig_information h3{
     font-family: parraf;
@@ -107,11 +107,11 @@
     
 }
 .main__section_card {
-    margin-top: 20px;
+    margin-top: 5px;
     /* background-color: blue; */
     display: flex;
     flex-direction: row;
-    gap: 20px;
+    gap: 15px;
     align-items: center;
     overflow-x: scroll;
  
@@ -125,8 +125,7 @@
     background: var(--color-8);
     background-image: url(../storage/img/cards1.svg);
     object-fit: cover;
-    width: 440px;
-    height: 300px;
+    width: 300px;
     display: flex;
     flex-direction: column;
     justify-content: space-between;
@@ -139,8 +138,7 @@
     background: var(--color-8);
     background-image: url(../storage/img/cards1.svg);
     object-fit: cover;
-    width: 440px;
-    height: 300px;
+    width: 300px;
     display: flex;
     flex-direction: column;
     justify-content: space-between;
