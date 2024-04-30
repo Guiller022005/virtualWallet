@@ -67,3 +67,12 @@ En el css, me apoye en z-index, para cuadrar mejor todo q debia quedar encima y 
 
 Con grid area acomode de mejor forma y use la mayoria de las veces unidades relativas:
 ![image](https://github.com/Guiller022005/virtualWallet/assets/118319910/c81f64f5-aee3-4bc3-94f6-8c77b28584ba)
+![image](https://github.com/Guiller022005/virtualWallet/assets/118319910/bd7980e3-831f-4f18-b8d2-5b8ee4fa3081)
+![image](https://github.com/Guiller022005/virtualWallet/assets/118319910/d112773b-16ef-4f17-97af-c24ca38c0b3c)
+
+Cuando termine, comence a personalizar...
+Y se ve asi:
+![image](https://github.com/Guiller022005/virtualWallet/assets/118319910/ea8e5fe4-9a21-4cbf-813b-7a8425a13b98)
+
+Me fui guiando gran parte del proyecto por mi celular y el simulador q nos dijo el trainer, mas sin embargo se veian muy diferentes, dejaba un espacio en el uno o se veia muy agrupado grande y feo en el otro, entonces lo fui adaptando, el trainer nos dijo q tomaramos fotos y evidencias y eso fue lo q procedi a hacer:
+![image](https://github.com/Guiller022005/virtualWallet/assets/118319910/7a63590a-577f-49a1-a982-f93cae2e28da)
