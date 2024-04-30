@@ -75,4 +75,21 @@ Y se ve asi:
 ![image](https://github.com/Guiller022005/virtualWallet/assets/118319910/ea8e5fe4-9a21-4cbf-813b-7a8425a13b98)
 
 Me fui guiando gran parte del proyecto por mi celular y el simulador q nos dijo el trainer, mas sin embargo se veian muy diferentes, dejaba un espacio en el uno o se veia muy agrupado grande y feo en el otro, entonces lo fui adaptando, el trainer nos dijo q tomaramos fotos y evidencias y eso fue lo q procedi a hacer:
+
 ![image](https://github.com/Guiller022005/virtualWallet/assets/118319910/7a63590a-577f-49a1-a982-f93cae2e28da)
+Comparacion visual con mi celular:
+![image](https://github.com/Guiller022005/virtualWallet/assets/118319910/a543fb68-7695-446c-9973-2d8c95b542f3)
+
+Le puse transacciones y scrull de lado y de arriba hacia abajo:
+![image](https://github.com/Guiller022005/virtualWallet/assets/118319910/4049c9ed-3a67-4be6-a06e-3fe7d2221244)
+![image](https://github.com/Guiller022005/virtualWallet/assets/118319910/a62b7c8d-acd7-47d6-8853-5dfa5d88c811)
+![image](https://github.com/Guiller022005/virtualWallet/assets/118319910/ec685f97-5c79-4f3f-b908-43e1d45b6978)
+
+Este es el card:
+![image](https://github.com/Guiller022005/virtualWallet/assets/118319910/4c26d7b2-9dcd-4e5d-bec5-bdd476951de9)
+
+Cambia de color:
+![image](https://github.com/Guiller022005/virtualWallet/assets/118319910/a3fcbc93-616b-494a-a38c-73d281c4753d)
+
+Diferentes vistas con el simulador:
+![image](https://github.com/Guiller022005/virtualWallet/assets/118319910/8da7044c-73a2-40b3-8668-baac9853db10)
