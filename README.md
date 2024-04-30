@@ -1,3 +1,5 @@
 # virtualWallet
 # Presentado a: Miguel Castro
-# Presenteado por: Josè Guillermo Paùl Dìaz
+# Presenteado por: José Guillermo Paúl Díaz
+
+# Proyecto Html y Css:
