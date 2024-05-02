@@ -4,6 +4,9 @@
 Proyecto Html y Css:
 Instrucciones: Debes personalizar imgs, colores. hacerlo igual y al final cambias las imgs tipo de letra y colores.
 
+Video de presentacion:
+[Grabación de pantalla desde 02-05-24 06:10:46.webm](https://github.com/Guiller022005/virtualWallet/assets/118319910/551fcefe-9772-4f78-8070-5726df13eedb)
+
 Index: Estructura y maquetacion:
 Primero use un header para el encabezado de la pagina, luego coloque un main q contendria todo lo de enmedio repartido por sections, articles y divs, finalmente hice un footer para la parte del menu de abajo; image image image A algunos elementos les di el mismo nombre de clase para q conservaran sus atributos y fuera mas eficiente sus cambios.
 ![image](https://github.com/Guiller022005/virtualWallet/assets/118319910/bac1d1b5-3954-4a47-9c67-b7f373f5a803)
