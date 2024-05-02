@@ -2,7 +2,7 @@
 <h1>Presentado a: Miguel Castro</h1>
 <h1>Presenteado por: José Guillermo Paúl Díaz</h1>
 Proyecto Html y Css:
-Instrucciones: Debes personalizar imgs, colores. hacerlo igual y al final cambias las imgs tipo de letra y colores.
+Para ver la pagina hay que levantar un puerto. La hice sencilla, segun las instrucciones del trainer, cumpliendo las condiciones y lo visto en clase.
 
 Video de presentacion:
 [Grabación de pantalla desde 02-05-24 06:10:46.webm](https://github.com/Guiller022005/virtualWallet/assets/118319910/551fcefe-9772-4f78-8070-5726df13eedb)
